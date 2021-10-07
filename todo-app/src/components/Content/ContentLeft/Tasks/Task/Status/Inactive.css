@@ -1,0 +1,9 @@
+.status-inactive {
+  padding-left: 15px;
+}
+.status-inactive span {
+  background-color: rgba(235, 87, 87, 0.2);
+  border-radius: 20px;
+  color: #eb5757;
+  padding: 0 15px;
+}

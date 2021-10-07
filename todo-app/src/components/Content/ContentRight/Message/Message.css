@@ -1,0 +1,46 @@
+.message {
+  display: flex;
+  padding: 20px 0;
+}
+
+.message img {
+  height: 45px;
+  height: 45px;
+  border: 3px solid rgb(36, 163, 209);
+  border-radius: 50%;
+}
+
+.message-header {
+  display: flex;
+  padding: 0 0 7px 0;
+}
+
+.message-header h4 {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 15px;
+  color: #24272c;
+  margin: 0;
+}
+
+.message-header p {
+  font-family: "Poppins";
+  font-size: 15px;
+  line-height: 17px;
+  padding-left: 15px;
+  color: #7d859a;
+}
+
+.message-text p {
+  font-family: "Poppins";
+  font-size: 16px;
+  line-height: 20px;
+  align-items: center;
+  color: #555555;
+}
+
+.message-content {
+  margin: 0 0 10px 20px;
+}

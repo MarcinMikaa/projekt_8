@@ -1,0 +1,6 @@
+.status-pending span {
+  background-color: rgba(242, 153, 74, 0.2);
+  border-radius: 20px;
+  color: #f2994a;
+  padding: 0 15px;
+}

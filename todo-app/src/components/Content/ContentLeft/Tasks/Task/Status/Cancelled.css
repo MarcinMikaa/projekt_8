@@ -1,0 +1,6 @@
+.status-cancelled span {
+  background-color: #ffafaf;
+  border-radius: 20px;
+  color: #EB5757;
+  padding: 0 15px;
+}

@@ -1,0 +1,9 @@
+.system-message {
+  background: linear-gradient(90deg, #dae4f4 0%, #d3dcf1 100%);
+  border-radius: 10px;
+}
+
+.message-header-system h4 {
+  color: #5787a4;
+  padding-bottom: 12px;
+}

@@ -1,0 +1,112 @@
+.task {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.point {
+  display: flex;
+  width: 10px;
+  height: 10px;
+  border-radius: 90%;
+  background: linear-gradient(133.9deg, rgba(243, 71, 122, 0.7) 0.24%, rgba(136, 76, 178, 0.7) 90%);
+  margin: 10px;
+}
+
+.message {
+  min-width: 300px;
+  flex: 2;
+}
+
+.message p {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 17px;
+}
+
+.status,
+.priority,
+.people {
+  flex: 1;
+}
+
+.priority div {
+  display: flex;
+  align-items: center;
+  font-size: 17px;
+  color: rgb(77, 77, 77);
+  font-weight: 500;
+  line-height: 15px;
+}
+
+.priority div {
+  border-radius: 100%;
+  margin-right: 3px;
+  align-items: center;
+}
+
+.people {
+  display: flex;
+  text-align: center;
+}
+
+.people div {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  position: relative;
+  align-items: center;
+}
+
+.people img {
+  height: auto;
+  width: 23px;
+}
+
+.people .person-one {
+  background-color: #fbac65;
+}
+
+.people .person-two {
+  background-color: #81caf2;
+  position: relative;
+  left: -9px;
+}
+
+.people .person-three {
+  background-color: #ffe595;
+  position: relative;
+  left: -18px;
+}
+
+.people .person-more {
+  display: flex;
+  background-color: #6fcf97;
+  color: white;
+  font-weight: 600;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  left: -27px;
+}
+
+.more {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(218, 218, 218);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.more div {
+  background-color: rgb(189, 189, 189);
+  margin: 1px;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+}

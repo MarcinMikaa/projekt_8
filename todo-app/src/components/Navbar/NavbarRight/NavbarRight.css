@@ -1,0 +1,32 @@
+.navbar-right {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.navbar-right .avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  padding: 1px;
+  border: 4px solid pink;
+}
+
+.notification {
+  display: flex;
+}
+
+.notification div {
+  width: 12px;
+  height: 12px;
+  background-color: #f7685b;
+  border-radius: 50%;
+  position: relative;
+  left: 25px;
+  top: -3px;
+}
+.notification img {
+  margin-right: 30px;
+  width: 25px;
+  height: 27px;
+}

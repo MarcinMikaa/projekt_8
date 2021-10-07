@@ -1,0 +1,21 @@
+.navbar-left {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+.navbar-left img {
+  height: 25px;
+  width: 25px;
+  color: #7e809b;
+  margin: 10px;
+}
+
+.input {
+  color: gray;
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  width: 700px;
+  font-size: 20px;
+  line-height: 15px;
+}

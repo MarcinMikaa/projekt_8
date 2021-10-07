@@ -1,0 +1,7 @@
+.status-in-progress span {
+  background-color: rgba(86, 204, 242, 0.2);
+  white-space: nowrap;
+  border-radius: 20px;
+  color: #56ccf2;
+  padding: 0 15px;
+}

@@ -1,0 +1,6 @@
+.status-completed span {
+  background-color: #27AE6033;
+  border-radius: 20px;
+  color: #27AE60;
+  padding: 0 15px;
+}
